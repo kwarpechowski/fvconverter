@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocumentInvoice>
+    <InvoiceHeader>
+        <Application>
+            <Name>iHurt</Name>
+            <Version>2023.1.02</Version>
+            <FormatVersion>1</FormatVersion>
+            <OperatorName>Barbara Jewiarz</OperatorName>
+        </Application>
+        <DocumentID>EF62F0D9-F894-4305-9F7A-8A500FDACCCA</DocumentID>
+        <PriceType>NETTO</PriceType>
+        <Number>91336/2023/RPSH</Number>
+        <InvoiceDate>2023-04-28</InvoiceDate>
+        <SalesDate>2023-04-27</SalesDate>
+        <Currency>PLN</Currency>
+        <PaymentDueDate>2023-05-27</PaymentDueDate>
+        <PaymentTerms>29</PaymentTerms>
+        <DocumentType>FV</DocumentType>
+        <DocumentFunctionCode>O</DocumentFunctionCode>
+        <PaymentName>01 - przelew</PaymentName>
+        <Delivery>
+            <DeliveryDate>2023-04-27</DeliveryDate>
+        </Delivery>
+    </InvoiceHeader>
+    <InvoiceParties>
+        <Seller>
+            <Company>
+                <ILN>5909000728806</ILN>
+                <TaxID>6551974439</TaxID>
+                <BankName>BANK PEKAO SA</BankName>
+                <AccountNumber>78 1240 1372 1111 0000 1253 9815</AccountNumber>
+                <Name>Grupa PSB Handel S.A.</Name>
+                <Address1>Wełecz 142, 28-100 Busko-Zdrój</Address1>
+                <CityName>Busko-Zdrój</CityName>
+                <PostalCode>28-100</PostalCode>
+                <Country>Polska</Country>
+                <CSK>352251000000</CSK>
+                <WEEERegisterNumber>000017191</WEEERegisterNumber>
+            </Company>
+        </Seller>
+        <Buyer>
+            <TaxID>7391008327</TaxID>
+            <Name>ANITECH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</Name>
+            <Address1>UL. PIŁSUDSKIEGO 64 C</Address1>
+            <CityName>OLSZTYN</CityName>
+            <PostalCode>10-450</PostalCode>
+            <CSK>009738000000</CSK>
+        </Buyer>
+    </InvoiceParties>
+    <InvoiceLines>
+        <Line>
+            <Detail>
+                <LineNumber>1</LineNumber>
+                <EAN>5901289364621</EAN>
+                <SupplierItemCode>l.ktpt3,5</SupplierItemCode>
+                <Description>DMB/FARKOM/KRAKTEST PRIMER TYNK 3,5 KG</Description>
+                <Type>CU</Type>
+                <Quantity>3</Quantity>
+                <UnitOfMeasure>szt</UnitOfMeasure>
+                <UnitPrice>18.81</UnitPrice>
+                <PercentDiscount>0</PercentDiscount>
+                <UnitPriceAfterDiscount>18.81</UnitPriceAfterDiscount>
+                <TaxRate>23</TaxRate>
+                <TaxSymbol>23%</TaxSymbol>
+                <TaxCategoryCode>S</TaxCategoryCode>
+                <TaxReference>
+                    <ReferenceType>CN</ReferenceType>
+                    <ReferenceNumber>32091000</ReferenceNumber>
+                </TaxReference>
+                <TaxAmount>12.98</TaxAmount>
+                <NetAmount>56.43</NetAmount>
+            </Detail>
+        </Line>
+        <Line>
+            <Detail>
+                <LineNumber>2</LineNumber>
+                <EAN>5901289364249</EAN>
+                <SupplierItemCode>l.ktqnw</SupplierItemCode>
+                <Description>DMB/FARKOM/KRAKTEST Qseal narożnik wew. (do folii w płynie)</Description>
+                <Type>CU</Type>
+                <Quantity>25</Quantity>
+                <UnitOfMeasure>szt</UnitOfMeasure>
+                <UnitPrice>5.76</UnitPrice>
+                <PercentDiscount>0</PercentDiscount>
+                <UnitPriceAfterDiscount>5.76</UnitPriceAfterDiscount>
+                <TaxRate>23</TaxRate>
+                <TaxSymbol>23%</TaxSymbol>
+                <TaxCategoryCode>S</TaxCategoryCode>
+                <TaxReference>
+                    <ReferenceType>CN</ReferenceType>
+                    <ReferenceNumber>39219090</ReferenceNumber>
+                </TaxReference>
+                <TaxAmount>33.12</TaxAmount>
+                <NetAmount>144</NetAmount>
+            </Detail>
+        </Line>
+        <Line>
+            <Detail>
+                <LineNumber>3</LineNumber>
+                <EAN>5901289362634</EAN>
+                <SupplierItemCode>l.ktqtw050</SupplierItemCode>
+                <Description>DMB/FARKOM/KRAKTEST Qseal taśma zew. 50mb (nieb, do folii)</Description>
+                <Type>CU</Type>
+                <Quantity>4</Quantity>
+                <UnitOfMeasure>szt</UnitOfMeasure>
+                <UnitPrice>165</UnitPrice>
+                <PercentDiscount>0</PercentDiscount>
+                <UnitPriceAfterDiscount>165</UnitPriceAfterDiscount>
+                <TaxRate>23</TaxRate>
+                <TaxSymbol>23%</TaxSymbol>
+                <TaxCategoryCode>S</TaxCategoryCode>
+                <TaxReference>
+                    <ReferenceType>CN</ReferenceType>
+                    <ReferenceNumber>40082190</ReferenceNumber>
+                </TaxReference>
+                <TaxAmount>151.8</TaxAmount>
+                <NetAmount>660</NetAmount>
+            </Detail>
+        </Line>
+        <Line>
+            <Detail>
+                <LineNumber>4</LineNumber>
+                <EAN>5901289362634</EAN>
+                <SupplierItemCode>l.ktqtw050</SupplierItemCode>
+                <Description>DMB/FARKOM/KRAKTEST Qseal taśma zew. 50mb (nieb, do folii)</Description>
+                <Type>CU</Type>
+                <Quantity>1</Quantity>
+                <UnitOfMeasure>szt</UnitOfMeasure>
+                <UnitPrice>1</UnitPrice>
+                <PercentDiscount>0</PercentDiscount>
+                <UnitPriceAfterDiscount>1</UnitPriceAfterDiscount>
+                <TaxRate>23</TaxRate>
+                <TaxSymbol>23%</TaxSymbol>
+                <TaxCategoryCode>S</TaxCategoryCode>
+                <TaxReference>
+                    <ReferenceType>CN</ReferenceType>
+                    <ReferenceNumber>40082190</ReferenceNumber>
+                </TaxReference>
+                <TaxAmount>0.23</TaxAmount>
+                <NetAmount>1</NetAmount>
+            </Detail>
+        </Line>
+    </InvoiceLines>
+    <InvoiceSummary>
+        <TotalNetAmount>861.43</TotalNetAmount>
+        <TotalTaxAmount>198.13</TotalTaxAmount>
+        <TotalGrossAmount>1059.56</TotalGrossAmount>
+        <TaxSummaryLines>
+            <TaxSummaryLine>
+                <TaxRate>23</TaxRate>
+                <TaxSymbol>23%</TaxSymbol>
+                <TaxCategoryCode>S</TaxCategoryCode>
+                <TaxAmount>198.13</TaxAmount>
+                <TaxableAmount>861.43</TaxableAmount>
+                <GrossAmount>1059.56</GrossAmount>
+            </TaxSummaryLine>
+        </TaxSummaryLines>
+    </InvoiceSummary>
+    <InvoiceInfos>
+        <Info>
+            <Description>Symbol rejestru sprzedaży nadawcy</Description>
+            <Layout>S</Layout>
+            <Values>
+                <Value>RPSH</Value>
+            </Values>
+        </Info>
+        <Info>
+            <Description>Komentarz</Description>
+            <Layout>S</Layout>
+            <Values>
+                <Value>wz 08654/23</Value>
+            </Values>
+        </Info>
+        <Info>
+            <Description>Uwagi</Description>
+            <Layout>S</Layout>
+            <Values>
+                <Value>Numer PZ: PZ 80340/M00/2023 Dokument źródłowy: F/08760/A/23
+                    Dostawca: P.H.U. FARKOM Ireneusz Lasek Symbol: 045998</Value>
+            </Values>
+        </Info>
+        <Info>
+            <Description>-</Description>
+            <Layout>S</Layout>
+            <Values>
+                <Value>Faktura do dokumentów wydania nr: WZ 80340/M00/2023 2023.04.27 (wyst.: Jewiarz Barbara 41 378 52 43)</Value>
+            </Values>
+        </Info>
+        <Info>
+            <Description>Adres dostawy</Description>
+            <Layout>S</Layout>
+            <Values>
+                <Value>P104A PROFI ANITECH, ul. Piłsudskiego 64 C
+                    , 10-450 Olsztyn</Value>
+            </Values>
+        </Info>
+        <Info>
+            <Description>Środek transportu</Description>
+            <Layout>S</Layout>
+            <Values>
+                <Value>02 - Producenta</Value>
+            </Values>
+        </Info>
+        <Info>
+            <Description>TYP_DOKUMENTU</Description>
+            <Layout>H</Layout>
+            <Values>
+                <Value>FV</Value>
+            </Values>
+        </Info>
+    </InvoiceInfos>
+</DocumentInvoice>
